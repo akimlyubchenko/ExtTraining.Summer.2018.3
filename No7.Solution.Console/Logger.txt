@@ -1,0 +1,56 @@
+WARN: Trade amount on line 2 not a valid integer: '1.500'			7/31/2018 12:47:32 PM
+WARN: Trade currencies on line 6 malformed: 'USDCANADA'			7/31/2018 12:47:32 PM
+WARN: Trade currencies on line 8 malformed: 'BYNRU'			7/31/2018 12:47:32 PM
+WARN: Line 9 malformed. Only 4 field(s) found.			7/31/2018 12:47:32 PM
+WARN: Trade amount on line 2 not a valid integer: '1.500'			7/31/2018 12:48:45 PM
+WARN: Trade currencies on line 6 malformed: 'USDCANADA'			7/31/2018 12:48:45 PM
+WARN: Trade currencies on line 8 malformed: 'BYNRU'			7/31/2018 12:48:45 PM
+WARN: Line 9 malformed. Only 4 field(s) found.			7/31/2018 12:48:45 PM
+WARN: Trade amount on line 2 not a valid integer: '1.500'			7/31/2018 12:49:18 PM
+WARN: Trade currencies on line 6 malformed: 'USDCANADA'			7/31/2018 12:49:18 PM
+WARN: Trade currencies on line 8 malformed: 'BYNRU'			7/31/2018 12:49:18 PM
+WARN: Line 9 malformed. Only 4 field(s) found.			7/31/2018 12:49:18 PM
+WARN: Trade amount on line 2 not a valid integer: '1.500'			7/31/2018 12:52:16 PM
+WARN: Trade currencies on line 6 malformed: 'USDCANADA'			7/31/2018 12:52:16 PM
+WARN: Trade currencies on line 8 malformed: 'BYNRU'			7/31/2018 12:52:16 PM
+WARN: Line 9 malformed. Only 4 field(s) found.			7/31/2018 12:52:16 PM
+WARN: Trade amount on line 2 not a valid integer: '1.500'			7/31/2018 12:52:43 PM
+WARN: Trade currencies on line 6 malformed: 'USDCANADA'			7/31/2018 12:52:43 PM
+WARN: Trade currencies on line 8 malformed: 'BYNRU'			7/31/2018 12:52:43 PM
+WARN: Line 9 malformed. Only 4 field(s) found.			7/31/2018 12:52:43 PM
+WARN: Trade amount on line 2 not a valid integer: '1.500'			7/31/2018 12:52:53 PM
+WARN: Trade currencies on line 6 malformed: 'USDCANADA'			7/31/2018 12:52:53 PM
+WARN: Trade currencies on line 8 malformed: 'BYNRU'			7/31/2018 12:52:53 PM
+WARN: Line 9 malformed. Only 4 field(s) found.			7/31/2018 12:52:53 PM
+WARN: Trade amount on line 2 not a valid integer: '1.500'			7/31/2018 12:53:56 PM
+WARN: Trade currencies on line 6 malformed: 'USDCANADA'			7/31/2018 12:53:56 PM
+WARN: Trade currencies on line 8 malformed: 'BYNRU'			7/31/2018 12:53:56 PM
+WARN: Line 9 malformed. Only 4 field(s) found.			7/31/2018 12:53:56 PM
+WARN: Trade amount on line 2 not a valid integer: '1.500'			7/31/2018 1:05:11 PM
+WARN: Trade currencies on line 6 malformed: 'USDCANADA'			7/31/2018 1:05:11 PM
+WARN: Trade currencies on line 8 malformed: 'BYNRU'			7/31/2018 1:05:11 PM
+WARN: Line 9 malformed. Only 4 field(s) found.			7/31/2018 1:05:11 PM
+WARN: Trade amount on line 2 not a valid integer: '1.500'			7/31/2018 1:08:50 PM
+WARN: Trade currencies on line 6 malformed: 'USDCANADA'			7/31/2018 1:08:50 PM
+WARN: Trade currencies on line 8 malformed: 'BYNRU'			7/31/2018 1:08:50 PM
+WARN: Line 9 malformed. Only 4 field(s) found.			7/31/2018 1:08:50 PM
+WARN: Trade amount on line 2 not a valid integer: '1.500'			7/31/2018 1:32:00 PM
+WARN: Trade currencies on line 6 malformed: 'USDCANADA'			7/31/2018 1:32:00 PM
+WARN: Trade currencies on line 8 malformed: 'BYNRU'			7/31/2018 1:32:00 PM
+WARN: Line 9 malformed. Only 4 field(s) found.			7/31/2018 1:32:00 PM
+WARN: Trade amount on line 2 not a valid integer: '1.500'			7/31/2018 1:45:39 PM
+WARN: Trade currencies on line 6 malformed: 'USDCANADA'			7/31/2018 1:45:39 PM
+WARN: Trade currencies on line 8 malformed: 'BYNRU'			7/31/2018 1:45:39 PM
+WARN: Line 9 malformed. Only 4 field(s) found.			7/31/2018 1:45:39 PM
+WARN: Trade amount on line 2 not a valid integer: '1.500'			7/31/2018 1:53:41 PM
+WARN: Trade currencies on line 6 malformed: 'USDCANADA'			7/31/2018 1:53:41 PM
+WARN: Trade currencies on line 8 malformed: 'BYNRU'			7/31/2018 1:53:41 PM
+WARN: Line 9 malformed. Only 4 field(s) found.			7/31/2018 1:53:41 PM
+WARN: Trade amount on line 2 not a valid integer: '1.500'			7/31/2018 2:04:57 PM
+WARN: Trade currencies on line 6 malformed: 'USDCANADA'			7/31/2018 2:04:57 PM
+WARN: Trade currencies on line 8 malformed: 'BYNRU'			7/31/2018 2:04:57 PM
+WARN: Line 9 malformed. Only 4 field(s) found.			7/31/2018 2:04:57 PM
+WARN: Trade amount on line 2 not a valid integer: '1.500'			7/31/2018 2:07:52 PM
+WARN: Trade currencies on line 6 malformed: 'USDCANADA'			7/31/2018 2:07:52 PM
+WARN: Trade currencies on line 8 malformed: 'BYNRU'			7/31/2018 2:07:52 PM
+WARN: Line 9 malformed. Only 4 field(s) found.			7/31/2018 2:07:52 PM

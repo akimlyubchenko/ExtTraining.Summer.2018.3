@@ -1,5 +1,6 @@
-﻿namespace No7.Solution.Console
+﻿namespace No7.Solution
 {
+    // Все нормально
     internal class TradeRecord
     {
         internal string DestinationCurrency;
